@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+}
+
+.inputText {
+  width: 200px;
+  height: 50px;
+  border-color:blue;
+  border-width: 3px;
+  
+}
+
+.btn{
+  margin-left: 5px;
+  font-weight: 800;
+  height: 58px;
+  width: 80px;
+  color:blue;
+  background-color: aqua;
+}
+
+
+
+
+
+
